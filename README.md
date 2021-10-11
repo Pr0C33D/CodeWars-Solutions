@@ -1,4 +1,6 @@
-### CodeWars Challenges ![alt-text](https://github.com/Pr0C33D/CodeWars-Solutions/blob/32532e985af4945f1ba8d45d48a3426b0a1d76b5/codewars.png)
+ ![alt-text](https://github.com/Pr0C33D/CodeWars-Solutions/blob/32532e985af4945f1ba8d45d48a3426b0a1d76b5/codewars.png)
+
+### CodeWars Challenges
 Here are my various solutions to challenges attempted on CodeWars.
 
 Difficulty is based on the Japanese martial arts ranking system. The lower the kyu number, the more difficult the task.
