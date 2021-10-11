@@ -1,9 +1,11 @@
  ![alt-text](https://github.com/Pr0C33D/CodeWars-Solutions/blob/32532e985af4945f1ba8d45d48a3426b0a1d76b5/codewars.png)
 
-### CodeWars Challenges
+### CodeWars Challenges BIT 31 (15 grupė).
 Here are my various solutions to challenges attempted on CodeWars.
 
-Difficulty is based on the Japanese martial arts ranking system. The lower the kyu number, the more difficult the task.
+Difficulty is based on the Japanese martial arts ranking system. 
+
+The lower the kyu number, the more difficult the task.
 
 solutions was made in 2 languages , JS and PHP. 
 
