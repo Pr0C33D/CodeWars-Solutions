@@ -61,6 +61,6 @@ I will keep it up date untill i will finish my Front-End courses.
 | 8 kyu      | [simple-multiplication](https://github.com/Pr0C33D/simple-multiplication) | [JavaScript](https://github.com/Pr0C33D/simple-multiplication/blob/master/simple-multiplication.js) |
 | -----      | ---------------- | ---------------- |
 
+![LinkedIn]()
+<a href="https://lt.linkedin.com/in/rolandas-safonovas-362126201" rel="some text">![Foo](https://github.com/Pr0C33D/CodeWars-Solutions/blob/e9c2d45e40ce98fa0cf73061374163b95701b211/assets/images/LinkedIn_Logo_2019.png)</a>
 
-
-https://lt.linkedin.com/in/rolandas-safonovas-362126201
