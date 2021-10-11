@@ -60,3 +60,7 @@ I will keep it up date untill i will finish my Front-End courses.
 | 8 kyu      | [return-two-highest-values-in-list](https://github.com/Pr0C33D/return-two-highest-values-in-list) | [JavaScript](https://github.com/Pr0C33D/return-two-highest-values-in-list/blob/master/return-two-highest-values-in-list.js) |
 | 8 kyu      | [simple-multiplication](https://github.com/Pr0C33D/simple-multiplication) | [JavaScript](https://github.com/Pr0C33D/simple-multiplication/blob/master/simple-multiplication.js) |
 | -----      | ---------------- | ---------------- |
+
+
+
+https://lt.linkedin.com/in/rolandas-safonovas-362126201
